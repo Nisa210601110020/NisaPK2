@@ -1,0 +1,33 @@
+h1 {
+  color:#e6855e;
+  font-size: 30px;
+  background-color:#f3f372;
+  height:80px;
+  width:200px;
+}
+
+img {
+  height:50px;
+  width:70px;
+}
+
+li {
+  color: #444
+}
+
+.selected{
+  color: #ff0000;
+}
+kurang 1
+
+li {
+  list-style: none;
+  float:left;
+}
+padding:33px 20px;
+
+.header-logo{
+  float: left;
+  font-size: 36px;
+  padding:20px 40px;
+}
